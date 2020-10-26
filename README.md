@@ -1,1 +1,2 @@
 # LilExperiment
+user & pass = admin
